@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45": {
+      "wrappedProject": "../../ProjectA.csproj",
+      "bin": {
+        "assembly": "../../obj/{configuration}/ProjectA.dll",
+        "pdb": "../../obj/{configuration}/ProjectA.pdb"
+      },
+      "dependencies": {
+        "Newtonsoft.Json": "8.0.3"
+      }
+    }
+  }
+}

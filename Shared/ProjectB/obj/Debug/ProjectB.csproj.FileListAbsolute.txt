@@ -1,0 +1,7 @@
+C:\Projects\Temp\SharedProjects\Shared\ProjectB\bin\Debug\ProjectB.dll
+C:\Projects\Temp\SharedProjects\Shared\ProjectB\bin\Debug\ProjectB.pdb
+C:\Projects\Temp\SharedProjects\Shared\ProjectB\bin\Debug\NLog.dll
+C:\Projects\Temp\SharedProjects\Shared\ProjectB\bin\Debug\NLog.xml
+C:\Projects\Temp\SharedProjects\Shared\ProjectB\obj\Debug\ProjectB.csprojResolveAssemblyReference.cache
+C:\Projects\Temp\SharedProjects\Shared\ProjectB\obj\Debug\ProjectB.dll
+C:\Projects\Temp\SharedProjects\Shared\ProjectB\obj\Debug\ProjectB.pdb

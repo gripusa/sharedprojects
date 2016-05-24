@@ -1,0 +1,7 @@
+C:\Projects\Temp\SharedProjects\Shared\ProjectA\bin\Debug\ProjectA.dll
+C:\Projects\Temp\SharedProjects\Shared\ProjectA\bin\Debug\ProjectA.pdb
+C:\Projects\Temp\SharedProjects\Shared\ProjectA\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Temp\SharedProjects\Shared\ProjectA\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Temp\SharedProjects\Shared\ProjectA\obj\Debug\ProjectA.csprojResolveAssemblyReference.cache
+C:\Projects\Temp\SharedProjects\Shared\ProjectA\obj\Debug\ProjectA.dll
+C:\Projects\Temp\SharedProjects\Shared\ProjectA\obj\Debug\ProjectA.pdb

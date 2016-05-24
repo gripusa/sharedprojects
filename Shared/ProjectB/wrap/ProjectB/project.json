@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45": {
+      "wrappedProject": "../../ProjectB.csproj",
+      "bin": {
+        "assembly": "../../obj/{configuration}/ProjectB.dll",
+        "pdb": "../../obj/{configuration}/ProjectB.pdb"
+      },
+      "dependencies": {
+        "NLog": "4.3.4"
+      }
+    }
+  }
+}
